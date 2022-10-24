@@ -1,0 +1,46 @@
+/* mystyle.css*/
+body {
+     background-image: url("../images/Midterm%20Home%20pg.png"); 
+    background-size: cover;
+   /*      background-color: #98f468; 
+    padding-top: 25px; */
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 25px;
+}
+
+h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 60px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+
+
+
+p {
+    
+   
+}
+
+
+
+.row{
+    padding: 15px;
+    height: 300px;
+    width: 100%;    
+}
+
+.p-2 {
+    width: 600px;
+}
+
+
+
+
+
+
+
+
